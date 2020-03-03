@@ -1,5 +1,8 @@
 # hello-world
 learing the basics
 <p>
-  RDeBruyn Mar 03, 2020 Enterprise Information Systems
+  Enterprise Information Systems
+</p>
+<p>
+  613 837-9821
 </p>
